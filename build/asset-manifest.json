@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.0bf8136c.chunk.css",
+    "main.js": "/robofriends/static/js/main.7360f725.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.7360f725.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.933af172.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.933af172.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7216d182.chunk.js": "/robofriends/static/js/2.7216d182.chunk.js",
+    "static/js/2.7216d182.chunk.js.map": "/robofriends/static/js/2.7216d182.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.5e2d6e8d8d4dc5206f0484e72b3bb733.js": "/robofriends/precache-manifest.5e2d6e8d8d4dc5206f0484e72b3bb733.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0bf8136c.chunk.css.map": "/robofriends/static/css/main.0bf8136c.chunk.css.map",
+    "static/js/2.7216d182.chunk.js.LICENSE.txt": "/robofriends/static/js/2.7216d182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.933af172.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7216d182.chunk.js",
+    "static/css/main.0bf8136c.chunk.css",
+    "static/js/main.7360f725.chunk.js"
+  ]
+}
